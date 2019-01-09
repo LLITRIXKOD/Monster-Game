@@ -2,7 +2,7 @@ const gameInfo = {
 	duration: 10,
 	characterSpeedInfo: 20,
 	characterSpeedInfoBack: 60,
-	countBlockAtStrips: 2,
+	countBlockAtStrips: 4,
 	gaps: {
 		whenHeroRun: 80,
 		whenHeroRunBack: 80,
